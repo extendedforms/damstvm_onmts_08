@@ -11,7 +11,7 @@ window.questions = [
   },
   {
     id: 2,
-    image: "images/IMG_5877.jpeg",,
+    image: "images/IMG_5877.jpeg",
     question: "A 35-year-old diabetic woman presents with thick, curdy white vaginal discharge and intense vulval itching. Microscopy shows oval budding yeast cells with pseudohyphae. The isolate is incubated in serum at 37°C for 90 minutes, after which tube-like outgrowths are seen from the yeast cells. Which of the following is the most likely test demonstrated?",
     options: ["India ink preparation", "Germ tube test", "Urease test", "Lactophenol cotton blue mount"],
     answerIndex: 1,
@@ -19,7 +19,7 @@ window.questions = [
   },
   {
     id: 3,
-    image: "images/IMG_5878.jpeg",,
+    image: "images/IMG_5878.jpeg",
     question: "A 24-year-old man presents with high-grade fever, chills, fatigue, hypotension, and tachycardia after returning from a malaria-endemic region. Peripheral blood smear shows multiple delicate ring forms within red blood cells, some with double chromatin dots resembling stereo headphones. Which of the following is the most likely causative organism?",
     options: ["Plasmodium vivax", "Plasmodium malariae", "Plasmodium falciparum", "Plasmodium ovale"],
     answerIndex: 2,
@@ -27,7 +27,7 @@ window.questions = [
   },
   {
     id: 4,
-    image: "images/IMG_5879.jpeg",,
+    image: "images/IMG_5879.jpeg",
     question: "A 42-year-old man from North India presents with chronic nasal obstruction, foul-smelling nasal discharge, and progressive hypertrophic swelling of the nose. Biopsy from the nasal lesion shows large foamy macrophages with vacuolated cytoplasm containing bacilli and eosinophilic inclusion bodies in plasma cells. Which of the following organisms is the most likely causative agent?",
     options: ["Klebsiella pneumoniae", "Klebsiella granulomatis", "Mycobacterium leprae", "Klebsiella rhinoscleromatis"],
     answerIndex: 3,
@@ -35,7 +35,7 @@ window.questions = [
   },
   {
     id: 5,
-    image: "images/IMG_5880.jpeg",,
+    image: "images/IMG_5880.jpeg",
     question: "A 16-year-old boy presents with painless terminal hematuria and increased frequency of micturition. Urine microscopy shows a non-operculated egg with a prominent terminal spine at one pole. Which of the following parasites is most likely responsible for this condition?",
     options: ["Schistosoma haematobium", "Schistosoma mansoni", "Schistosoma japonicum", "Fasciola hepatica"],
     answerIndex: 0,
@@ -43,7 +43,7 @@ window.questions = [
   },
   {
     id: 6,
-    image: "images/IMG_5882.jpeg",,
+    image: "images/IMG_5882.jpeg",
     question: "A 7-year-old child presents with fever, malaise, cough, coryza, conjunctival congestion, and bluish-white lesions on the buccal mucosa. After a few days, an erythematous maculopapular rash starts behind the ears and spreads to the face and trunk. Histopathology of lymphoid tissue shows multinucleated giant cells with nuclear and cytoplasmic inclusions. Which of the following is the most likely causative agent?",
     options: ["Rubella virus", "Measles virus", "Varicella-zoster virus", "Parvovirus B19"],
     answerIndex: 1,
@@ -51,7 +51,7 @@ window.questions = [
   },
   {
     id: 7,
-    image: "images/IMG_5884.jpeg",,
+    image: "images/IMG_5884.jpeg",
     question: "A 32-year-old immunocompromised patient presents with prolonged watery diarrhea, abdominal pain, nausea, and vomiting after consuming contaminated food. Stool wet mount shows round oocysts that stain as red spheres on modified acid-fast staining. The oocysts measure 8–10 μm and contain 2 sporocysts, each with 2 sporozoites. Which of the following organisms is most likely responsible?",
     options: ["Isospora belli", "Cryptosporidium parvum", "Cyclospora cayetanensis", "Entamoeba histolytica"],
     answerIndex: 2,
@@ -59,7 +59,7 @@ window.questions = [
   },
   {
     id: 8,
-    image: "images/IMG_5885.jpeg",,
+    image: "images/IMG_5885.jpeg",
     question: "A boy presents with a history of acute febrile illness followed by asymmetric flaccid paralysis of the lower limb. On examination, there is muscle wasting and deformity of the right lower limb with hyperextension at the knee joint. The suspected virus belongs to the Picornaviridae family and is transmitted by the fecal–oral route. Which of the following is the most common presentation of this infection?",
     options: ["Aseptic meningitis", "Paralytic poliomyelitis", "Bulbar poliomyelitis", "Inapparent infection"],
     answerIndex: 3,
@@ -67,7 +67,7 @@ window.questions = [
   },
   {
     id: 9,
-    image: "images/IMG_5887.jpeg",,
+    image: "images/IMG_5887.jpeg",
     question: "A 9-year-old child presents with colicky abdominal pain, vomiting, abdominal distension, and constipation. X-ray abdomen shows multiple air-fluid levels suggestive of intestinal obstruction. Stool examination shows bile-stained mammillated eggs. Which of the following is the infective form of the causative parasite?",
     options: ["Embryonated egg containing L3 larva", "Rhabditiform larva", "Filariform larva", "Adult worm"],
     answerIndex: 0,
@@ -75,7 +75,7 @@ window.questions = [
   },
   {
     id: 10,
-    image: "images/IMG_5888.jpeg",,
+    image: "images/IMG_5888.jpeg",
     question: "A 5-year-old child presents with fever, sore throat, dysphagia, and painful oral lesions. Examination shows grayish-white papulovesicular lesions on an erythematous base over the soft palate, uvula, anterior tonsillar pillars, and posterior oropharynx. The lesions later ulcerate. Which of the following viruses is the most common cause of this condition?",
     options: ["Herpes simplex virus type 1", "Coxsackievirus A", "Epstein–Barr virus", "Adenovirus"],
     answerIndex: 1,
@@ -83,7 +83,7 @@ window.questions = [
   },
   {
     id: 11,
-    image: "images/IMG_5889.jpeg",,
+    image: "images/IMG_5889.jpeg",
     question: "A 32-year-old man presents with recurrent fever, lymphangitis, and scrotal swelling. Peripheral blood smear collected at night shows sheathed microfilariae with a pointed tail free of nuclei. The infection is transmitted by mosquito bite. Which of the following is the infective form of the causative parasite?",
     options: ["Microfilaria", "Adult worm", "Third-stage filariform larva", "Egg containing larva"],
     answerIndex: 2,
@@ -91,7 +91,7 @@ window.questions = [
   },
   {
     id: 12,
-    image: "images/IMG_5890.jpeg",,
+    image: "images/IMG_5890.jpeg",
     question: "A 24-year-old sexually active man presents with dysuria and purulent urethral discharge. Gram staining of the urethral discharge shows gram-negative intracellular diplococci within neutrophils. Culture is done on selective media. Which of the following drugs is used in the syndromic management of urethral discharge along with azithromycin?",
     options: ["Doxycycline 100 mg BD for 7 days", "Metronidazole 2 g stat", "Acyclovir 400 mg TDS", "Cefixime 800 mg stat"],
     answerIndex: 3,
@@ -99,7 +99,7 @@ window.questions = [
   },
   {
     id: 13,
-    image: "images/IMG_5891.jpeg",,
+    image: "images/IMG_5891.jpeg",
     question: "A 26-year-old sexually active man presents with a painless genital ulcer with a clean base and firm indurated margins. Serous exudate from the lesion is examined under a microscope, showing a refractile spiral organism against a dark background. Which of the following microscopy techniques is most useful for direct visualization of the causative organism from an active chancre?",
     options: ["Dark-field microscopy", "Gram staining", "India ink preparation", "Albert staining"],
     answerIndex: 0,
@@ -107,7 +107,7 @@ window.questions = [
   },
   {
     id: 14,
-    image: "images/IMG_5892.jpeg",,
+    image: "images/IMG_5892.jpeg",
     question: "A 6-year-old child presents with fever, sore throat, cervical lymphadenopathy, and a thick grayish-white membrane over the tonsils that bleeds on attempted removal. Gram stain shows gram-positive rods with club-shaped ends, beaded appearance, and Chinese-letter pattern arrangement. The toxin produced by this organism causes inhibition of protein synthesis. Which of the following is the mechanism of action of the toxin produced by this organism?",
     options: ["Inactivation of 60S ribosomal subunit", "ADP-ribosylation of elongation factor-2", "Inhibition of acetylcholine release", "Increased cAMP by activation of adenylate cyclase"],
     answerIndex: 1,
@@ -115,7 +115,7 @@ window.questions = [
   },
   {
     id: 15,
-    image: "images/IMG_5893.jpeg",,
+    image: "images/IMG_5893.jpeg",
     question: "A 38-year-old farmer presents with fever, headache, myalgia, and a black eschar at the site of an arthropod bite. He also has regional lymphadenopathy, maculopapular rash, and raised serum creatinine suggesting acute kidney injury. Which of the following is the most likely causative organism?",
     options: ["Orientia tsutsugamushi", "Bacillus anthracis", "Rickettsia rickettsii", "Salmonella Typhi"],
     answerIndex: 0,
@@ -123,7 +123,7 @@ window.questions = [
   },
   {
     id: 16,
-    image: "images/IMG_5894.jpeg",,
+    image: "images/IMG_5894.jpeg",
     question: "A 35-year-old gardener from a sub-Himalayan region presents with multiple ulcerative nodules over the upper limb arranged along the lymphatic channels. History reveals traumatic inoculation by a thorn while handling plants. Microscopy shows flower-like clusters of conidia, and tissue section shows asteroid bodies around cigar-shaped yeast cells. Which of the following is the most likely causative organism?",
     options: ["Histoplasma capsulatum", "Sporothrix schenckii", "Blastomyces dermatitidis", "Coccidioides immitis"],
     answerIndex: 1,
@@ -131,7 +131,7 @@ window.questions = [
   },
   {
     id: 17,
-    image: "images/IMG_5897.jpeg",,
+    image: "images/IMG_5897.jpeg",
     question: "A 6-year-old child presents with superficial vesicular lesions around the mouth. The vesicles rupture easily and form honey-colored crusted lesions. There is no deep ulceration or systemic toxicity. Which of the following organisms is classically associated with this condition?",
     options: ["Herpes simplex virus", "Varicella-zoster virus", "Streptococcus pyogenes", "Trichophyton rubrum"],
     answerIndex: 2,
@@ -139,7 +139,7 @@ window.questions = [
   },
   {
     id: 18,
-    image: "images/IMG_5898.jpeg",,
+    image: "images/IMG_5898.jpeg",
     question: "A 32-year-old man presents with fever, jaundice, delirium, and evidence of hepatic and renal dysfunction after travel to an endemic region. The vector shown is Aedes aegypti. Liver biopsy shows amorphous eosinophilic nuclear inclusion bodies. Which of the following inclusion bodies is classically associated with this disease?",
     options: ["Negri bodies", "Guarnieri bodies", "Cowdry type A inclusions", "Torres bodies"],
     answerIndex: 3,
@@ -147,7 +147,7 @@ window.questions = [
   },
   {
     id: 19,
-    image: "images/IMG_5900.jpeg",,
+    image: "images/IMG_5900.jpeg",
     question: "A 45-year-old post-transplant patient on immunosuppressive therapy presents with chronic watery diarrhea and crampy abdominal pain. Stool examination using Kinyoun acid-fast stain shows spherical oocysts measuring 4–6 μm. The parasite is capable of completing its life cycle in a single host and can cause autoinfection. Which of the following is the most likely causative organism?",
     options: ["Cryptosporidium parvum", "Cyclospora cayetanensis", "Isospora belli", "Giardia lamblia"],
     answerIndex: 0,
@@ -155,7 +155,7 @@ window.questions = [
   },
   {
     id: 20,
-    image: "images/IMG_5901.jpeg",,
+    image: "images/IMG_5901.jpeg",
     question: "A microbiology resident performs antibiotic sensitivity testing for a bacterial isolate. The organism is spread uniformly over the entire surface of the agar plate before placing antibiotic discs. After incubation, zones of inhibition are measured around the discs. Which of the following culture methods is being used?",
     options: ["Streak culture", "Lawn culture", "Stroke culture", "Stab culture"],
     answerIndex: 1,
@@ -163,7 +163,7 @@ window.questions = [
   },
   {
     id: 21,
-    image: "images/IMG_5902.jpeg",,
+    image: "images/IMG_5902.jpeg",
     question: "A 30-year-old sexually active man presents with a chronic, painless, beefy-red genital ulcer that bleeds easily on touch. There is no significant lymphadenopathy. Wright–Giemsa-stained tissue smear shows rounded coccobacilli within cystic spaces in large mononuclear cells, showing bipolar staining with safety-pin appearance. Which of the following organisms is the most likely causative agent?",
     options: ["Haemophilus ducreyi", "Treponema pallidum", "Klebsiella granulomatis", "Chlamydia trachomatis L1–L3"],
     answerIndex: 2,
@@ -171,7 +171,7 @@ window.questions = [
   },
   {
     id: 22,
-    image: "images/IMG_5903.jpeg",,
+    image: "images/IMG_5903.jpeg",
     question: "A 5-year-old splenectomised child presents with fever, cough, and features of bacterial pneumonia. Culture on blood agar shows small colonies growing better near a streak of Staphylococcus aureus, with larger colonies close to the staphylococcal streak and smaller colonies farther away. Which of the following phenomena is demonstrated in this culture plate?",
     options: ["Swarming", "Hemolysis", "String test", "Satellitism"],
     answerIndex: 3,
@@ -179,7 +179,7 @@ window.questions = [
   },
   {
     id: 23,
-    image: "images/IMG_5913.jpeg",,
+    image: "images/IMG_5913.jpeg",
     question: "A 38-year-old man presents with multiple firm, non-tender subcutaneous nodules over the elbow and iliac crest. He also complains of intense pruritus, skin rashes, photophobia, and gradual loss of vision. Eye examination shows sclerosing keratitis. The disease is transmitted by a blackfly breeding in fast-flowing rivers. Which of the following is the drug of choice for this condition?",
     options: ["Ivermectin", "Diethylcarbamazine", "Albendazole", "Praziquantel"],
     answerIndex: 0,
@@ -187,7 +187,7 @@ window.questions = [
   },
   {
     id: 24,
-    image: "images/IMG_5912.jpeg",,
+    image: "images/IMG_5912.jpeg",
     question: "A 28-year-old man develops abdominal discomfort, nausea, and passage of proglottids in stool after eating inadequately cooked measly pork. Stool examination shows eggs of a cestode. The adult worm has a scolex with suckers and dagger-shaped hooks. Which of the following statements is correct regarding this parasite?",
     options: ["Eggs float in saturated salt solution", "Eggs are infective to both man and pigs", "Adult worm is usually 10–12 meters long", "Cattle are the usual intermediate host"],
     answerIndex: 1,
@@ -195,7 +195,7 @@ window.questions = [
   },
   {
     id: 25,
-    image: "images/IMG_5906.jpeg",,
+    image: "images/IMG_5906.jpeg",
     question: "A 62-year-old man presents with fever, non-productive cough, dyspnea, diarrhea, confusion, and hyponatremia. Chest findings are suggestive of atypical pneumonia. Pleural fluid examination using direct fluorescent antibody staining shows fluorescent organisms. Which of the following is the most likely causative organism?",
     options: ["Legionella pneumophila", "Mycoplasma pneumoniae", "Chlamydia psittaci", "Coxiella burnetii"],
     answerIndex: 0,
@@ -203,7 +203,7 @@ window.questions = [
   },
   {
     id: 26,
-    image: "images/IMG_5907.jpeg",,
+    image: "images/IMG_5907.jpeg",
     question: "A 45-year-old man presents with high-grade fever, headache, malaise, weakness, and myalgia after a tick bite. Giemsa-stained peripheral blood smear shows intraerythrocytic ring forms without hemozoin pigment. A few RBCs show tetrad formation resembling a Maltese cross. Which of the following is the most likely causative organism?",
     options: ["Plasmodium falciparum", "Babesia microti", "Trypanosoma cruzi", "Leishmania donovani"],
     answerIndex: 1,
@@ -211,7 +211,7 @@ window.questions = [
   },
   {
     id: 27,
-    image: "images/IMG_5910.jpeg",,
+    image: "images/IMG_5910.jpeg",
     question: "A 28-year-old man presents with high-grade fever, severe myalgia, headache, conjunctival suffusion, jaundice, and reduced urine output after wading through floodwater. History reveals exposure to water contaminated with rat urine. Electron microscopy shows a thin, tightly coiled spirochete with hooked ends. Which of the following organisms is the most likely causative agent?",
     options: ["Treponema pallidum", "Borrelia burgdorferi", "Leptospira interrogans", "Spirillum minus"],
     answerIndex: 2,
@@ -219,7 +219,7 @@ window.questions = [
   },
   {
     id: 28,
-    image: "images/IMG_5911.jpeg",,
+    image: "images/IMG_5911.jpeg",
     question: "A 27-year-old sexually active man presents with a painful genital ulcer. On examination, the ulcer is soft, non-indurated, tender, irregular, and bleeds on touch. He also has painful tender inguinal lymphadenopathy. Smear shows gram-negative coccobacilli arranged in a school of fish / railroad track appearance. Which of the following organisms is the most likely causative agent?",
     options: ["Treponema pallidum", "Haemophilus ducreyi", "Klebsiella granulomatis", "Chlamydia trachomatis L1–L3"],
     answerIndex: 1,
@@ -227,7 +227,7 @@ window.questions = [
   },
   {
     id: 29,
-    image: "images/IMG_5914.jpeg",,
+    image: "images/IMG_5914.jpeg",
     question: "A microbiology laboratory performs a test for identification of an anaerobic gram-positive bacillus isolated from a case of gas gangrene which is shown below. The organism is grown on an egg-yolk medium containing lecithin. One half of the plate contains antitoxin, while the other half does not. An area of opacity develops only on the side without antitoxin. Which of the following toxins is detected by this test?",
     options: ["Diphtheria toxin", "Botulinum toxin", "Alpha toxin of Clostridium perfringens", "Tetanospasmin"],
     answerIndex: 2,
@@ -235,7 +235,7 @@ window.questions = [
   },
   {
     id: 30,
-    image: "images/IMG_5915.jpeg",,
+    image: "images/IMG_5915.jpeg",
     question: "A 36-year-old shepherd presents with right upper abdominal discomfort. CT abdomen shows a well-defined space-occupying cystic lesion in the liver with internal septations, suggestive of hydatid cyst. The clinician plans PAIR procedure for early-stage disease. Which of the following is NOT used as a scolicidal agent in this procedure?",
     options: ["Hypertonic saline", "95% alcohol", "Cetrimide", "Hypotonic saline"],
     answerIndex: 3,
@@ -243,7 +243,7 @@ window.questions = [
   },
   {
     id: 31,
-    image: "images/IMG_5916.jpeg",,
+    image: "images/IMG_5916.jpeg",
     question: "An infant is born to a mother who had fever and rash during early pregnancy. The baby has bilateral nuclear cataracts, a blueberry muffin rash, continuous machinery murmur suggestive of patent ductus arteriosus, and sensorineural hearing loss. Which of the following viruses is most likely responsible for this condition?",
     options: ["Rubella virus", "Cytomegalovirus", "Herpes simplex virus", "Varicella-zoster virus"],
     answerIndex: 0,
@@ -251,7 +251,7 @@ window.questions = [
   },
   {
     id: 32,
-    image: "images/IMG_5918.jpeg",,
+    image: "images/IMG_5918.jpeg",
     question: "A 2-year-old child presents with low-grade fever, hoarseness, inspiratory stridor, and a characteristic barking cough. Neck X-ray shows subglottic narrowing producing the steeple sign. Which of the following viruses is the most likely causative agent?",
     options: ["Respiratory syncytial virus", "Parainfluenza virus", "Adenovirus", "Influenza virus"],
     answerIndex: 1,
@@ -259,7 +259,7 @@ window.questions = [
   },
   {
     id: 33,
-    image: "images/IMG_5919.jpeg",,
+    image: "images/IMG_5919.jpeg",
     question: "A 4-year-old child presents with high-grade fever, severe sore throat, drooling, tachycardia, and toxic appearance. The child is sitting upright and leaning forward to ease breathing. Lateral neck X-ray shows enlargement of the epiglottis producing the thumb sign. Which of the following organisms is classically responsible for this condition?",
     options: ["Parainfluenza virus", "Streptococcus pyogenes", "Haemophilus influenzae type b", "Respiratory syncytial virus"],
     answerIndex: 2,
@@ -267,7 +267,7 @@ window.questions = [
   },
   {
     id: 34,
-    image: "images/IMG_5920.jpeg",,
+    image: "images/IMG_5920.jpeg",
     question: "A 32-year-old farmer presents with a slow-growing swelling over the left foot for several years. The swelling is associated with multiple discharging sinuses, and the discharge contains black granules. On KOH examination, the grains show masses of fungal mycelium with septate hyphae. Which of the following organisms is most likely responsible?",
     options: ["Nocardia brasiliensis", "Actinomadura madurae", "Streptomyces somaliensis", "Madurella mycetomatis"],
     answerIndex: 3,
@@ -275,7 +275,7 @@ window.questions = [
   },
   {
     id: 35,
-    image: "images/IMG_5921.jpeg",,
+    image: "images/IMG_5921.jpeg",
     question: "A 1-year-old child presents with acute watery diarrhea without blood or mucus. The illness is self-limiting. Electron microscopy of the intestinal mucosa shows bacterial adherence to small bowel epithelial cells with loss of microvilli and formation of actin pedestals beneath the attached bacteria. Which of the following organisms produces attachment and effacement lesions in intestinal epithelial cells?",
     options: ["Enteropathogenic Escherichia coli", "Enterotoxigenic Escherichia coli", "Enterohemorrhagic Escherichia coli", "Enteroinvasive Escherichia coli"],
     answerIndex: 0,
@@ -283,7 +283,7 @@ window.questions = [
   },
   {
     id: 36,
-    image: "images/IMG_5922.jpeg",,
+    image: "images/IMG_5922.jpeg",
     question: "A 45-year-old farmer presents with a slowly spreading warty, verrucous lesion over the lower limb after a thorn-prick injury several years ago. Histopathology shows granulomatous inflammation with dark brown, thick-walled, round fungal structures within giant cells. These bodies show transverse and longitudinal septations. Which of the following histopathological findings is most characteristic of this condition?",
     options: ["Asteroid bodies", "Medlar bodies", "Donovan bodies", "Negri bodies"],
     answerIndex: 1,
@@ -291,7 +291,7 @@ window.questions = [
   },
   {
     id: 37,
-    image: "images/IMG_5923.jpeg",,
+    image: "images/IMG_5923.jpeg",
     question: "A 12-year-old child presents with fever and regional lymphadenopathy after being scratched by a pet kitten. A painless papule developed at the scratch site, followed by enlargement of the draining lymph nodes. Lymph node biopsy examined with Warthin–Starry stain shows black short rod-shaped bacilli arranged in chains and clumps. Which of the following organisms is the most likely causative agent?",
     options: ["Bartonella bacilliformis", "Bartonella henselae", "Bartonella quintana", "Borrelia burgdorferi"],
     answerIndex: 1,
@@ -299,7 +299,7 @@ window.questions = [
   },
   {
     id: 38,
-    image: "images/IMG_5924.jpeg",,
+    image: "images/IMG_5924.jpeg",
     question: "A victim is brought for medicolegal examination after being assaulted with a stick-like object. Examination shows two parallel linear bruises with a pale central area at the site of impact. Which of the following injuries is most likely shown in the image?",
     options: ["Tram-line bruise", "Patterned abrasion", "Laceration", "Defence wound"],
     answerIndex: 0,
@@ -307,7 +307,7 @@ window.questions = [
   },
   {
     id: 39,
-    image: "images/IMG_5925.jpeg",,
+    image: "images/IMG_5925.jpeg",
     question: "A patient is brought to the emergency department after ingestion of a toxic substance. He has severe abdominal pain, vomiting, diarrhoea, garlicky odour of breath, and the vomitus is described as luminescent in the dark. Gastric lavage is planned, and a compound shown in the image may be used as stomach wash. Which of the following compounds is shown?",
     options: ["Potassium permanganate", "Activated charcoal", "Sodium bicarbonate", "Copper sulphate"],
     answerIndex: 3,
@@ -315,7 +315,7 @@ window.questions = [
   },
   {
     id: 40,
-    image: "images/IMG_5926.jpeg",,
+    image: "images/IMG_5926.jpeg",
     question: "A dead body is examined a few hours after death. There is bluish-purple discoloration over the dependent parts of the body, due to blood settling in dilated vessels under the influence of gravity. Which of the following postmortem changes is shown in the image?",
     options: ["Postmortem lividity", "Rigor mortis", "Algor mortis", "Cadaveric spasm"],
     answerIndex: 0,
@@ -323,7 +323,7 @@ window.questions = [
   },
   {
     id: 41,
-    image: "images/IMG_5927.jpeg",,
+    image: "images/IMG_5927.jpeg",
     question: "A child presents with orofacial paresthesias, tremors, headache, fatigue, irritability, and painful pink discoloration of hands and feet. On examination, features suggest acrodynia as shown below, due to chronic organic mercury exposure. Mercury mainly produces toxicity by binding to which of the following groups?",
     options: ["Amino groups", "Sulfhydryl groups", "Carboxyl groups", "Phosphate groups"],
     answerIndex: 1,
@@ -331,7 +331,7 @@ window.questions = [
   },
   {
     id: 42,
-    image: "images/IMG_5928.jpeg",,
+    image: "images/IMG_5928.jpeg",
     question: "A patient presents with painful blisters, itching, and eczematous eruptions over the skin after local application of juice from black, heart-shaped seeds. The juice is commonly used by malingerers to fabricate wounds and artificial bruises. Which of the following is the active principle responsible for these effects?",
     options: ["Ricin", "Abrin", "Bhilawanol", "Colchicine"],
     answerIndex: 2,
@@ -339,7 +339,7 @@ window.questions = [
   },
   {
     id: 43,
-    image: "images/IMG_5929.jpeg",,
+    image: "images/IMG_5929.jpeg",
     question: "A 6-year-old child presents with abdominal pain, irritability, anemia, and developmental delay. Peripheral smear shows coarse basophilic stippling of red blood cells. This hematological finding occurs due to inhibition of which of the following enzymes?",
     options: ["Delta-ALA dehydratase", "Ferrochelatase", "Cytochrome oxidase", "Pyrimidine 5′ nucleotidase"],
     answerIndex: 3,
@@ -347,7 +347,7 @@ window.questions = [
   },
   {
     id: 44,
-    image: "images/IMG_5930.jpeg",,
+    image: "images/IMG_5930.jpeg",
     question: "A dead body is recovered from a pond. During autopsy, the forensic expert performs acid digestion of bone marrow tissue, followed by centrifugation and microscopic examination. The test detects microscopic unicellular algae with silica-containing cell walls, supporting antemortem drowning. Which of the following is the most reliable site for this test?",
     options: ["Bone marrow of femur", "Stomach contents", "Skin from dependent areas", "Vitreous humour"],
     answerIndex: 0,
@@ -355,7 +355,7 @@ window.questions = [
   },
   {
     id: 45,
-    image: "images/IMG_5931.jpeg",,
+    image: "images/IMG_5931.jpeg",
     question: "A group of people develop vomiting, diarrhoea, bilateral pedal edema, generalized anasarca, and hypersecretory glaucoma after consuming adulterated mustard oil. The adulterant is obtained from a plant with yellow flowers, and all parts of the plant are poisonous. Which of the following toxic alkaloids is responsible?",
     options: ["Abrin", "Sanguinarine", "Ricin", "Bhilawanol"],
     answerIndex: 1,
@@ -363,7 +363,7 @@ window.questions = [
   },
   {
     id: 46,
-    image: "images/IMG_5932.jpeg",,
+    image: "images/IMG_5932.jpeg",
     question: "A young man is brought to the emergency department with dry hot skin, dilated pupils, dryness of mouth and throat, unquenchable thirst, delirium, drunken gait, and drowsiness after ingestion of seeds from a plant with white trumpet-shaped flowers and spiny fruits. Which of the following toxidromes is most likely produced by this plant?",
     options: ["Cholinergic toxidrome", "Opioid toxidrome", "Anticholinergic toxidrome", "Sympathomimetic toxidrome"],
     answerIndex: 2,
@@ -371,7 +371,7 @@ window.questions = [
   },
   {
     id: 47,
-    image: "images/IMG_5934.jpeg",,
+    image: "images/IMG_5934.jpeg",
     question: "A child is brought after blunt trauma to the head. Imaging of the skull shows a localized inward depression of the cranial bone without complete fragmentation, resembling an indentation on a soft ping-pong ball. This type of fracture occurs commonly in children due to the elasticity of skull bones. Which of the following skull fractures is shown in the image?",
     options: ["Fissured fracture", "Comminuted fracture", "Gutter fracture", "Pond fracture"],
     answerIndex: 3,
@@ -379,7 +379,7 @@ window.questions = [
   },
   {
     id: 48,
-    image: "images/IMG_5935.jpeg",,
+    image: "images/IMG_5935.jpeg",
     question: "A victim is attacked from behind, with the assailant placing an arm around the throat and trapping the neck in the crook of the elbow. Pressure is exerted over the larynx and sides of the neck by the forearm and upper arm. Which type of strangulation is shown in the image?",
     options: ["Mugging", "Bansdola", "Garrotting", "Burking"],
     answerIndex: 0,
@@ -387,7 +387,7 @@ window.questions = [
   },
   {
     id: 49,
-    image: "images/IMG_5936.jpeg",,
+    image: "images/IMG_5936.jpeg",
     question: "A patient is brought with a wound produced by a sharp-edged weapon. On examination, the wound is clean-cut, spindle-shaped, longer than deep, with well-defined everted margins and no surrounding contusion or abrasion. Which type of wound is shown in the image?",
     options: ["Lacerated wound", "Incised wound", "Punctured wound", "Contused wound"],
     answerIndex: 1,
@@ -395,7 +395,7 @@ window.questions = [
   },
   {
     id: 50,
-    image: "images/IMG_5937.jpeg",,
+    image: "images/IMG_5937.jpeg",
     question: "A patient is brought after a road traffic accident with a superficial injury over the skin due to friction against a rough surface. The injury involves loss of superficial epidermis and does not penetrate the full thickness of epidermis. Which of the following injuries is most likely shown?",
     options: ["Incised wound", "Lacerated wound", "Abrasion", "Stab wound"],
     answerIndex: 2,
@@ -403,7 +403,7 @@ window.questions = [
   },
   {
     id: 51,
-    image: "images/IMG_5938.jpeg",,
+    image: "images/IMG_5938.jpeg",
     question: "A person is brought after being struck by lightning. On examination, there are superficial, thin, tortuous, fern-like branching erythematous marks over the shoulder and flank. These marks are produced due to rupture of small vessels and usually disappear within 1–2 days. Which of the following findings is shown in the image?",
     options: ["Joule burn", "Electric mark", "Spark burn", "Lichtenberg figure"],
     answerIndex: 3,
@@ -411,7 +411,7 @@ window.questions = [
   },
   {
     id: 52,
-    image: "images/IMG_5939.jpeg",,
+    image: "images/IMG_5939.jpeg",
     question: "A dead body is examined around 36–48 hours after death. The skin shows linear branching discoloration along the course of superficial veins over the abdomen, chest, shoulders, and inguinal region. This occurs due to hemolysis of blood and staining of vessel walls by sulfmethemoglobin. Which postmortem change is shown in the image?",
     options: ["Marbling", "Postmortem lividity", "Mummification", "Adipocere formation"],
     answerIndex: 0,
@@ -419,7 +419,7 @@ window.questions = [
   },
   {
     id: 53,
-    image: "images/IMG_5940.jpeg",,
+    image: "images/IMG_5940.jpeg",
     question: "A worker comes in contact with a high-tension electric current in the multi-kilovolt range. Examination shows multiple spark lesions over the skin. Which of the following is the most likely finding shown in the image?",
     options: ["Lichtenberg figure", "Crocodile skin effect", "Joule burn", "Contact flattening"],
     answerIndex: 1,
@@ -427,7 +427,7 @@ window.questions = [
   },
   {
     id: 54,
-    image: "images/IMG_5941.jpeg",,
+    image: "images/IMG_5941.jpeg",
     question: "A child presents with abdominal colic, anemia, irritability, and developmental delay. Oral examination shows a bluish-grey line along the gingival margin, especially near the teeth. This finding is classically associated with chronic exposure to which poison?",
     options: ["Arsenic", "Phosphorus", "Lead", "Cyanide"],
     answerIndex: 2,
@@ -435,7 +435,7 @@ window.questions = [
   },
   {
     id: 55,
-    image: "images/IMG_5942.jpeg",,
+    image: "images/IMG_5942.jpeg",
     question: "A patient with long-term industrial exposure presents with hyperpigmented and hypopigmented spots over the skin, giving a raindrop pigmentation appearance. Examination of nails shows transverse white bands. Which of the following chelating agents is preferred for subacute or chronic severe poisoning in this condition?",
     options: ["Atropine", "Pralidoxime", "Naloxone", "Succimer"],
     answerIndex: 3,
@@ -443,7 +443,7 @@ window.questions = [
   },
   {
     id: 56,
-    image: "images/IMG_5943.jpeg",,
+    image: "images/IMG_5943.jpeg",
     question: "A patient develops poisoning after consuming a herbal preparation made from roots resembling horseradish. During examination, the pupils show abnormal exaggerated rhythmic contraction and dilatation, independent of light or fixation. Which of the following ocular signs is classically associated with this poisoning?",
     options: ["Hippus", "Miosis", "Ptosis", "Nystagmus"],
     answerIndex: 0,
@@ -451,7 +451,7 @@ window.questions = [
   },
   {
     id: 57,
-    image: "images/IMG_5944.jpeg",,
+    image: "images/IMG_5944.jpeg",
     question: "A young drug user is seen heating heroin base on aluminium foil with a hand-held flame and inhaling the thick white vapour produced. This method produces heroin levels similar to intravenous use. Which of the following methods of drug intake is described?",
     options: ["Mainlining", "Chasing the dragon", "Skin popping", "Insufflation"],
     answerIndex: 1,
@@ -459,7 +459,7 @@ window.questions = [
   },
   {
     id: 58,
-    image: "images/IMG_5945.jpeg",,
+    image: "images/IMG_5945.jpeg",
     question: "A dead body is recovered from water. Examination of the hands and feet shows pale, sodden, wrinkled skin, first appearing over the finger pads. The finding suggests immersion in water for a few hours to 3 days. Which of the following signs is shown?",
     options: ["Cutis anserina", "Postmortem hypostasis", "Washerwoman’s skin", "Cadaveric spasm"],
     answerIndex: 2,
@@ -467,7 +467,7 @@ window.questions = [
   },
   {
     id: 59,
-    image: "images/IMG_5946.jpeg",,
+    image: "images/IMG_5946.jpeg",
     question: "A person is examined after custodial torture. He gives history of repeated beating over the soles of the feet using a stick-like object. On examination, there is severe pain and tenderness over the plantar aspect of both feet. Which of the following methods of torture is shown in the image?",
     options: ["Mugging", "Burking", "Garrotting", "Falanga / Bastinado"],
     answerIndex: 3,
@@ -475,7 +475,7 @@ window.questions = [
   },
   {
     id: 60,
-    image: "images/IMG_5947.jpeg",,
+    image: "images/IMG_5947.jpeg",
     question: "A child accidentally ingests seeds of a plant commonly known as the castor oil plant. The toxic principle enters cells and inhibits protein synthesis, leading to severe toxicity. Which of the following is the main toxic principle of this plant?",
     options: ["Ricin", "Abrin", "Sanguinarine", "Bhilawanol"],
     answerIndex: 0,
@@ -483,7 +483,7 @@ window.questions = [
   },
   {
     id: 61,
-    image: "images/IMG_5948.jpeg",,
+    image: "images/IMG_5948.jpeg",
     question: "A child is brought with sharply demarcated red skin lesions with blistering and desquamation after accidental spillage of hot liquid. The lesions show a trickle pattern due to the liquid running down under gravity. Which of the following injuries is most likely shown?",
     options: ["Flame burn", "Scald", "Electrical burn", "Chemical burn"],
     answerIndex: 1,
@@ -491,7 +491,7 @@ window.questions = [
   },
   {
     id: 62,
-    image: "images/IMG_5950.jpeg",,
+    image: "images/IMG_5950.jpeg",
     question: "A patient is brought with drowsiness, pinpoint pupils, slow respiration, and coma after consuming an extract obtained from the unripe fruit capsule of a plant. The plant shown is Papaver somniferum. Which of the following is the toxic part from which the toxic principle is derived?",
     options: ["Leaves", "Roots", "Unripe fruit capsule", "Stem bark"],
     answerIndex: 2,
@@ -499,7 +499,7 @@ window.questions = [
   },
   {
     id: 63,
-    image: "images/IMG_5951.jpeg",,
+    image: "images/IMG_5951.jpeg",
     question: "A victim sustains a firearm injury from a shotgun. The wound shows a central round rat-hole wound with multiple satellite pellet holes scattered around the central wound. There is no soot deposition, and tattooing may or may not be present. What is the most likely range of firing?",
     options: ["Contact shot", "Less than 30 cm", "More than 5 meters", "1–5 meters"],
     answerIndex: 3,
@@ -507,7 +507,7 @@ window.questions = [
   },
   {
     id: 64,
-    image: "images/IMG_5952.jpeg",,
+    image: "images/IMG_5952.jpeg",
     question: "A snake is identified by its characteristic expanded hood showing a spectacle-shaped mark on the dorsal aspect. Which of the following snakes is shown in the image?",
     options: ["Common cobra", "Russell’s viper", "Krait", "Saw-scaled viper"],
     answerIndex: 0,
@@ -515,7 +515,7 @@ window.questions = [
   },
   {
     id: 65,
-    image: "images/IMG_5953.jpeg",,
+    image: "images/IMG_5953.jpeg",
     question: "A snake is identified by the presence of three rows of diamond-shaped black/brown spots over the body. Which of the following snakes is shown in the image?",
     options: ["Common cobra", "Russell’s viper", "Common krait", "Saw-scaled viper"],
     answerIndex: 1,
@@ -523,7 +523,7 @@ window.questions = [
   },
   {
     id: 66,
-    image: "images/IMG_5954.jpeg",,
+    image: "images/IMG_5954.jpeg",
     question: "A victim is found with a ligature noose around the neck. The noose was tightened by inserting and twisting a rod-like object within the ligature, producing fatal compression of the neck. Which of the following methods of strangulation is shown?",
     options: ["Mugging", "Burking", "Garrotting", "Bansdola"],
     answerIndex: 2,
@@ -531,7 +531,7 @@ window.questions = [
   },
   {
     id: 67,
-    image: "images/IMG_5955.jpeg",,
+    image: "images/IMG_5955.jpeg",
     question: "A child with chronic exposure to lead presents with abdominal colic, anemia, irritability, and developmental delay. X-ray of long bones shows dense transverse metaphyseal bands at the growth plates. These radiological lines are mainly due to deposition of which substance?",
     options: ["Lead", "Iron", "Sulfur", "Calcium"],
     answerIndex: 3,
@@ -539,7 +539,7 @@ window.questions = [
   },
   {
     id: 68,
-    image: "images/IMG_5956.jpeg",,
+    image: "images/IMG_5956.jpeg",
     question: "A victim is brought after severe blunt force trauma over the skull. Examination shows multiple fracture lines radiating and interconnecting, dividing the skull into several fragments and producing a spider-web pattern. Which type of skull fracture is shown in the image?",
     options: ["Mosaic fracture", "Pond fracture", "Fissured fracture", "Gutter fracture"],
     answerIndex: 0,
@@ -547,7 +547,7 @@ window.questions = [
   },
   {
     id: 69,
-    image: "images/IMG_5957.jpeg",,
+    image: "images/IMG_5957.jpeg",
     question: "A child presents with severe poisoning after accidental ingestion of antiseptic compound- Boric Acid. Examination shows a beefy red skin rash involving the palms, soles, buttocks, and scrotum, followed by extensive exfoliation. This characteristic appearance is known as which of the following?",
     options: ["Raindrop pigmentation", "Boiled lobster appearance", "Burtonian line", "Crocodile skin effect"],
     answerIndex: 1,
@@ -555,7 +555,7 @@ window.questions = [
   },
   {
     id: 70,
-    image: "images/IMG_5958.jpeg",,
+    image: "images/IMG_5958.jpeg",
     question: "In a suspected sexual assault case, a stain is collected and tested for the presence of seminal fluid. On adding saturated aqueous or alcoholic picric acid solution, yellow needle-shaped rhombic crystals of spermine picrate are formed. Which of the following tests is described?",
     options: ["Florence test", "Teichmann test", "Barberio test", "Takayama test"],
     answerIndex: 2,
@@ -563,7 +563,7 @@ window.questions = [
   },
   {
     id: 71,
-    image: "images/IMG_5959.jpeg",,
+    image: "images/IMG_5959.jpeg",
     question: "A patient undergoes abdominal surgery. Postoperatively, an X-ray shows a pair of surgical scissors left behind inside the abdomen. The negligent act is so obvious that the patient need not prove negligence in detail. Which legal doctrine is applicable in this case?",
     options: ["Vicarious liability", "Contributory negligence", "Therapeutic misadventure", "Res ipsa loquitur"],
     answerIndex: 3,
@@ -571,7 +571,7 @@ window.questions = [
   },
   {
     id: 72,
-    image: "images/IMG_5961.jpeg",,
+    image: "images/IMG_5961.jpeg",
     question: "A patient is brought after ingestion of seeds of Strychnos nux-vomica. He develops severe painful convulsions, but remains conscious during the seizures. The toxin acts as a competitive antagonist of an inhibitory neurotransmitter at postsynaptic receptors in motor neurons of the anterior horn of spinal cord. Which neurotransmitter is antagonized?",
     options: ["Glycine", "GABA", "Dopamine", "Acetylcholine"],
     answerIndex: 0,
@@ -1379,7 +1379,7 @@ window.questions = [
   },
   {
     id: 173,
-    image: "images/IMG_5962.jpeg",,
+    image: "images/IMG_5962.jpeg",
     question: "A 32-year-old man from West Africa presents with recurrent transient subcutaneous swellings over the limbs and face. He also complains of a crawling sensation in the eye, and examination shows a worm crossing the subconjunctival tissue. Peripheral smear shows microfilariae with nuclei extending up to the tip of the tail. The vector shown is a day-biting fly. The fly shown is the vector for which of the following parasites?",
     options: ["Loa loa", "Onchocerca volvulus", "Trypanosoma gambiense", "Dirofilaria immitis"],
     answerIndex: 0,
@@ -1387,7 +1387,7 @@ window.questions = [
   },
   {
     id: 174,
-    image: "images/IMG_5964.jpeg",,
+    image: "images/IMG_5964.jpeg",
     question: "A 24-year-old woman presents with severe eye pain, redness, photophobia, watering, and blurred vision. She gives a history of wearing contact lenses while swimming and occasionally cleaning the lenses with tap water. Corneal scraping shows a free-living amoeba with trophozoite and cyst forms. Which of the following is the most likely pathogen?",
     options: ["Entamoeba nana", "Acanthamoeba", "Naegleria fowleri", "Balamuthia mandrillaris"],
     answerIndex: 1,
@@ -1395,7 +1395,7 @@ window.questions = [
   },
   {
     id: 175,
-    image: "images/IMG_5966.jpeg",,
+    image: "images/IMG_5966.jpeg",
     question: "A 25-year-old woman with advanced HIV infection presents with recurrent episodes of bloody diarrhea, abdominal pain, and weight loss. Her CD4 count is 50 cells/mm³. Stool cultures for common bacterial causes of dysentery are negative, and assay for Clostridioides difficile toxin is also negative. Colonoscopy shows multiple large ulcerated lesions. Biopsy shows enlarged cells with intranuclear inclusions surrounded by a clear halo. Which of the following is the most likely cause of this condition?",
     options: ["Cytomegalovirus", "Epstein–Barr virus", "Herpes simplex virus type 1", "Human herpesvirus 8"],
     answerIndex: 0,
@@ -1403,7 +1403,7 @@ window.questions = [
   },
   {
     id: 176,
-    image: "images/IMG_5967.jpeg",,
+    image: "images/IMG_5967.jpeg",
     question: "The serological test of a patient shows HBsAg negative, IgM anti-HBc antibody negative, HBV DNA not detectable, anti-HBc IgG antibody positive, and anti-HBs antibody positive. What is the most probable diagnosis?",
     options: ["Acute hepatitis window period", "Chronic hepatitis in active stage", "Chronic hepatitis with precore mutant", "Recovery from previous infection of hepatitis B"],
     answerIndex: 3,
@@ -1411,7 +1411,7 @@ window.questions = [
   },
   {
     id: 177,
-    image: "images/IMG_5968.jpeg",,
+    image: "images/IMG_5968.jpeg",
     question: "Based on the picture, name the staining reaction shown.",
     options: ["Alcian blue", "GMS", "India ink", "Gram stain"],
     answerIndex: 2,
@@ -1419,7 +1419,7 @@ window.questions = [
   },
   {
     id: 178,
-    image: "images/IMG_5970.jpeg",,
+    image: "images/IMG_5970.jpeg",
     question: "A teenager presents with mild fever, aching muscles, and joint pain. He notices an expanding annular rash on the side of his upper leg after outdoor exposure. The rash has a central clearing with a target-like appearance. What is the most likely etiology and route of transmission?",
     options: ["B. burgdorferi / tick bite", "E. chaffeensis / tick bite", "B. burgdorferi / deer fly bite", "L. interrogans / rodent bite"],
     answerIndex: 0,
@@ -1427,7 +1427,7 @@ window.questions = [
   },
   {
     id: 179,
-    image: "images/IMG_5971.jpeg",,
+    image: "images/IMG_5971.jpeg",
     question: "Image shown here detects the presence of which of the following?",
     options: ["Coagulase", "Hyaluronidase", "Phosphatase", "Lecithinase"],
     answerIndex: 3,
@@ -1435,11 +1435,10 @@ window.questions = [
   },
   {
     id: 180,
-    image: "images/IMG_5972.jpeg",,
+    image: "images/IMG_5972.jpeg",
     question: "The animal model shown in the image is used to cultivate which of the following microbes?",
     options: ["R. prowazekii", "M. leprae", "M. ulcerans", "L. monocytogenes"],
     answerIndex: 1,
     correctAnswerText: "M. leprae"
   }
 ];
-
