@@ -366,7 +366,7 @@
   <header class="topbar">
     <div>NEET PG CBT</div>
     <div>
-      Time Left: <b id="timeLeft">60:00</b>
+      Time Left: <b id="timeLeft">180:00</b>
       &nbsp; | &nbsp;
       Violations: <b id="vio">0</b>
     </div>
@@ -387,7 +387,7 @@
         <div class="actions">
           <button id="prevBtn" onclick="prevQuestion()">Previous</button>
           <button onclick="clearResponse()">Clear Response</button>
-          <button onclick="markForReview()">Mark for Review</button>
+          <button id="markBtn" onclick="markForReview()">Mark for Review</button>
           <button onclick="nextQuestion()">Next</button>
         </div>
 
@@ -427,7 +427,11 @@
 
   <script>
     const API_URL = window.API_URL || window.SCRIPT_URL || "";
-    const EXAM_DURATION_SECONDS = Number(window.EXAM_DURATION_SECONDS || 180 * 60);
+
+    const EXAM_DURATION_SECONDS = Number(
+      window.EXAM_DURATION_SECONDS ||
+      (window.EXAM_DURATION_MIN ? window.EXAM_DURATION_MIN * 60 : 180 * 60)
+    );
 
     let currentIndex = 0;
     let userAnswers = {};
@@ -573,6 +577,11 @@
 
         div.onclick = function() {
           userAnswers[q.id] = index;
+
+          // Important fix:
+          // After answering, remove Mark for Review so palette becomes green.
+          delete markedQuestions[q.id];
+
           saveState();
           renderQuestion();
         };
@@ -582,8 +591,22 @@
 
       document.getElementById("prevBtn").disabled = currentIndex === 0;
 
+      updateMarkButton();
       renderPalette();
       saveState();
+    }
+
+    function updateMarkButton() {
+      const q = window.questions[currentIndex];
+      const markBtn = document.getElementById("markBtn");
+
+      if (!markBtn) return;
+
+      if (markedQuestions[q.id] === true) {
+        markBtn.textContent = "Remove Mark";
+      } else {
+        markBtn.textContent = "Mark for Review";
+      }
     }
 
     function renderPalette() {
@@ -641,19 +664,21 @@
     function clearResponse() {
       const q = window.questions[currentIndex];
       delete userAnswers[q.id];
+
       saveState();
       renderQuestion();
     }
 
     function markForReview() {
       const q = window.questions[currentIndex];
-      markedQuestions[q.id] = true;
-      saveState();
 
-      if (currentIndex < window.questions.length - 1) {
-        currentIndex++;
+      if (markedQuestions[q.id] === true) {
+        delete markedQuestions[q.id];
+      } else {
+        markedQuestions[q.id] = true;
       }
 
+      saveState();
       renderQuestion();
     }
 
@@ -782,7 +807,7 @@
     function startTimer() {
       clearInterval(timerInterval);
 
-      timerInterval = setInterval(function() {
+      function updateTimer() {
         const now = new Date();
         const elapsed = Math.floor((now - startedAt) / 1000);
         const remaining = Math.max(EXAM_DURATION_SECONDS - elapsed, 0);
@@ -797,7 +822,10 @@
           clearInterval(timerInterval);
           submitExam("time_over", true);
         }
-      }, 1000);
+      }
+
+      updateTimer();
+      timerInterval = setInterval(updateTimer, 1000);
     }
 
     function sendViolation(type, details) {
