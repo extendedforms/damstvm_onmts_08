@@ -496,7 +496,8 @@ window.questions = [
   },
   {
     id: 39,
-    image: "images/handhygiene.mov",
+    image: "",
+    video: "images/handhygiene.mov",
     question: "A physician applies a solution containing 75% isopropyl alcohol and 0.5% chlorhexidine gluconate to unsoiled hands, rubbing them vigorously for 20 seconds immediately prior to palpating a patient's abdomen in the general ward as shown in the video. Although the chemical agents utilized in this solution are capable of rapidly denaturing cellular proteins and disrupting the lipid envelopes of numerous pathogenic viruses, according to standard WHO infection prevention and control guidelines, this specific procedural action is officially classified as which of the following?",
     options: [
       "Sterilization",
