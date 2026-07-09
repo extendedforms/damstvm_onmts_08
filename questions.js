@@ -835,7 +835,7 @@ window.questions = [
   {
     id: 65,
     image: "images/muac.mov",
-    question: "A 2-year-old child is screened at a community health camp using Shakir’s tape to assess mid-upper arm circumference (MUAC). The tape shows a reading of 11.0 cm. According to the standard color-coded classification, what is the appropriate management for this child?",
+    question: "A 2-year-old child is screened at a community health camp using Shakir’s tape to assess mid-upper arm circumference (MUAC). The tape shows a reading of 9.0 cm. According to the standard color-coded classification, what is the appropriate management for this child?",
     options: [
       "Home management",
       "OPD management",
