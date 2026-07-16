@@ -521,17 +521,17 @@ window.questions = [
     correctAnswerText: "Sertraline"
   },
   {
-    id: 41,
-    image: "",
-    question: "A 45-year-old man presents with intense fear and palpitations whenever he tries to use public transport, stand in crowds, or leave his home alone. He actively avoids these situations because he fears being trapped where escape might be difficult or help unavailable. What is the most likely diagnosis?",
-    options: [
-      "Agoraphobia",
-      "Generalized anxiety disorder",
-      "Social anxiety disorder",
-      "Specific phobia"
-    ],
-    answerIndex: 0,
-    correctAnswerText: "Agoraphobia"
+  id: 41,
+  image: "",
+  question: "A 60-year-old glaucoma suspect is counseled on lifestyle modifications to prevent ocular pressure spikes. Which of the following physiological states or activities is most likely to decrease his intraocular pressure?",
+  options: [
+    "Sustained aerobic exercise",
+    "Sleeping in a prone position",
+    "Performing the Valsalva maneuver",
+    "Rapidly drinking large volumes of water"
+  ],
+  answerIndex: 0,
+  correctAnswerText: "Sustained aerobic exercise"
   },
   {
     id: 42,
